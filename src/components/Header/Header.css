@@ -1,0 +1,21 @@
+.header a {
+  margin-right: 40px;
+  text-decoration: none;
+  color: white;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.logOut {
+  background: transparent;
+
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.logOut:hover {
+  color: white;
+}
